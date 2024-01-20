@@ -1,0 +1,14 @@
+#cardcomponent {
+  width: 20vw;
+  height: 25rem;
+}
+
+@media (max-width: 800px) {
+  #cardcomponent {
+    width: 70vw;
+    height: 40vh;
+  }
+  #imageindetail {
+    margin-left: 30px;
+  }
+}
